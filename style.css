@@ -1,0 +1,61 @@
+body{
+    background-image: url(bg1.svg);
+    color: white;
+}
+.navigation{
+    background-color:black;
+    color:white;
+    padding: 1rem 0rem;
+    border-bottom-left-radius: 1rem;
+}
+.unordered-inline-list{
+    display: inline;
+    padding: 0rem 0.5rem;
+    text-decoration:none;
+
+}
+.section{
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+    background-color: rgba(89, 21, 95, 0.849);
+    width: 50%;
+    margin: auto;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+    padding: 3rem;
+    border: solid white;
+}
+.link{
+
+    text-decoration: none;
+    font-size: larger;
+}
+.head{
+    padding: 2rem;
+}
+.mainimg{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+
+}
+.mainheading{
+    font-size: 2rem;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+
+}
+.footer{
+    background-color:black;
+    padding: 2rem 1rem;
+    color: white;
+    text-align: center;
+    border-top-right-radius: 1rem;
+}
+.footer-header{
+    font-size: 2rem;
+}
+
+
